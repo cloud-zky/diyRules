@@ -1,1 +1,11 @@
-#e-hentai
+# NAME: EHGallery
+# AUTHOR: blackmatrix7
+# UPDATED: 2023-12-14 16:57:25
+payload:
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,ehgt.org
+  - DOMAIN-SUFFIX,ehwiki.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-SUFFIX,hentaiverse.org
+  - IP-CIDR,178.175.128.0/21,no-resolve
